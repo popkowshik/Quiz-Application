@@ -1,2 +1,0 @@
-# Quiz-Application
-using java
